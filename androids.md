@@ -1,7 +1,7 @@
 ---
-title: "Do androids dream of electric sheep?"
-author: "Ryan Stubbins"
-date: "13 January, 2020"
+Title: "Do androids dream of electric sheep?"
+Author: "Ryan Stubbins"
+Date: "13 January, 2020"
 ---
 
 
